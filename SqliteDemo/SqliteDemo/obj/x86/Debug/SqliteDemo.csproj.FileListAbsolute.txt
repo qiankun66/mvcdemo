@@ -1,0 +1,11 @@
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.csprojResolveAssemblyReference.cache
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.Form1.resources
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.Properties.Resources.resources
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.csproj.GenerateResource.Cache
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\bin\Debug\SqliteDemo.exe
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\bin\Debug\SqliteDemo.pdb
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\bin\Debug\System.Data.SQLite.dll
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\bin\Debug\System.Data.SQLite.pdb
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.exe
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\obj\x86\Debug\SqliteDemo.pdb
+E:\Work\C#\Project\SqliteDemo\SqliteDemo\bin\Debug\SqliteDemo.exe.config

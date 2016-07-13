@@ -1,0 +1,7 @@
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Work\C#\Project\SqliteDemo\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
